@@ -1,6 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'fr'
-title = 'Chales-Cantin'
-
-[params]
-description = "Charles CANTIN photographe" 

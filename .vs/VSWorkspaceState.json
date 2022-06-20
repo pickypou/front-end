@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\layouts",
+    "\\static",
+    "\\static\\bapteme"
   ],
-  "SelectedNode": "\\config.toml",
+  "SelectedNode": "\\static\\NouveauDossier",
   "PreviewInSolutionExplorer": false
 }

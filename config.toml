@@ -1,3 +1,6 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'fr'
+title = 'Chales-Cantin'
+
+[params]
+description = "Charles CANTIN photographe" 
